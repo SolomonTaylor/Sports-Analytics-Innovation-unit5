@@ -15,3 +15,5 @@ Coaches, front office executives and team managers would use this tool before ma
 ## Connection to Chapter 7
 This project is currently in the creative phase of innovation. The main idea has been identified and its potential value to the organization is clear. However, it has not yet been prototyped, tested with decision makers or integrated into the team’s daily workflow.
 
+## Prototype Enhancement
+This prototype enhancement adds a color-coded workload risk level to the dashboard. Instead of only showing workload trends, the tool would now label players as low, medium or high risk based on recent workload changes. This change could improve decision-making because coaches and managers would be able to identify potential fatigue risk more quickly and act faster when planning rest, rotation or training adjustments.
