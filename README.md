@@ -17,3 +17,6 @@ This project is currently in the creative phase of innovation. The main idea has
 
 ## Prototype Enhancement
 This prototype enhancement adds a color-coded workload risk level to the dashboard. Instead of only showing workload trends, the tool would now label players as low, medium or high risk based on recent workload changes. This change could improve decision-making because coaches and managers would be able to identify potential fatigue risk more quickly and act faster when planning rest, rotation or training adjustments.
+## Prototype Evaluation
+The prototype enhancement should be integrated into the main project because it improves how information is presented to decision makers. The addition of workload risk levels makes it easier for coaches and managers to quickly identify players who may need rest or reduced training.
+However, feedback from decision makers would be important before final integration. Coaches and performance staff may suggest adjustments to how risk levels are defined or displayed. Their input would help ensure that the tool aligns with real decision-making needs and is practical to use in daily operations.
