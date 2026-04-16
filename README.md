@@ -20,3 +20,10 @@ This prototype enhancement adds a color-coded workload risk level to the dashboa
 ## Prototype Evaluation
 The prototype enhancement should be integrated into the main project because it improves how information is presented to decision makers. The addition of workload risk levels makes it easier for coaches and managers to quickly identify players who may need rest or reduced training.
 However, feedback from decision makers would be important before final integration. Coaches and performance staff may suggest adjustments to how risk levels are defined or displayed. Their input would help ensure that the tool aligns with real decision-making needs and is practical to use in daily operations.
+
+## Reflection on Innovation and Version Control
+Branches support low-risk experimentation in analytics organizations because they allow new ideas to be tested without changing the main project. This makes it possible to refine or evaluate an idea before it is fully adopted.
+
+GitHub helps analytics ideas gain traction with decision makers by creating a clear record of changes, feedback, evaluation and adoption decisions. It allows teams to show how an idea develops over time instead of presenting it as a finished product without context.
+
+This workflow aligns with the innovation process in Chapter 7 because it supports the movement from creative thinking to prototyping, evaluation and implementation. The use of branches, commits and merging reflects how analytics ideas can be developed carefully and integrated into decision-making with less risk.
